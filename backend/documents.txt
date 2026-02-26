@@ -1,0 +1,5 @@
+Node.js is a JavaScript runtime built on Chrome's V8 engine.
+
+Express.js is a web framework for Node.js.
+
+RAG stands for Retrieval-Augmented Generation.

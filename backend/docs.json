@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. A reset link will be sent to their registered email."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are processed within 5 business days after approval."
+  },
+  {
+    "title": "Account Deletion",
+    "content": "Users can permanently delete their account from Settings > Account > Delete."
+  },
+  {
+    "title": "Change Email",
+    "content": "Users can change their email from Profile Settings."
+  },
+  {
+    "title": "Subscription Cancellation",
+    "content": "Subscriptions can be cancelled anytime from the billing section."
+  }
+]
